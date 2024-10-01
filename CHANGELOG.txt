@@ -1,0 +1,4 @@
+Version 1.0, released 22 September 2024:
+ - First mission available: Earth to Mars.
+ - Game includes a start menu, a how to play screen, an end screen, and a pause screen.
+ - Buttons are blue when not hovering, green when hovering, red when hovering on exit button.
